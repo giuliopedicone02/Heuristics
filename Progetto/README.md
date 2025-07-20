@@ -7,6 +7,10 @@ Questo progetto presenta un'implementazione dell'Ant Colony System (ACS) adattat
 **Autore**: Giulio Pedicone (Matricola: 1000084718)  
 **Corso**: Heuristics & Metaheuristics For Optimization And Learning
 
+## Descrizione
+
+Il file `FlowNetwork.py` contiene l'implementazione della classe principale per la gestione della rete di flusso. Tale classe incapsula tutti i metodi necessari per la creazione della struttura dati del grafo, l'aggiornamento dei flussi residui, la gestione delle capacità degli archi e la manipolazione delle tracce di feromone utilizzate dall'algoritmo ACS. In particolare, fornisce il supporto operativo alle formiche artificiali durante la fase di esplorazione e aggiornamento del grafo. L'esecuzione vera e propria dell'algoritmo è invece orchestrata all'interno del notebook `progetto.ipynb`, che funge da main e consente di configurare l'istanza di input, eseguire il ciclo evolutivo delle formiche, raccogliere i risultati sperimentali e visualizzare i grafici di convergenza.
+
 
 ## Modifiche Rispetto all'ACS Classico
 
