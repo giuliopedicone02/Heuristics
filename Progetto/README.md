@@ -93,9 +93,9 @@ L'implementazione ACS utilizza i seguenti parametri ottimizzati:
 | network_11520.txt | 1244.00 | 1244.00 | 0.00 | 562.3 | 65172.6 | 100% |
 | network_23040.txt | 2223.00 | 2223.00 | 0.00 | 493.1 | 112849.7 | 100% |
 
-### Esempio di grafico di convergenza per la rete network_960.txt
+### Esempio di grafico di convergenza per la rete network_500.txt
 
-![Immagine](risultati/network_960.png)
+![Immagine](risultati/network_500.png)
 
 #### Legenda Metriche:
 - **Best**: Valore massimo del flusso trovato
