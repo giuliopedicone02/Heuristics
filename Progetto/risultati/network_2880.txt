@@ -1,0 +1,49 @@
+Initializing ACS for Maximum Flow Problem...
+Flow Network - Nodes: 2882, Edges: 41823
+Source: -2, Sink: -1
+Theoretical maximum flow: 341.00
+
+======================================================================
+STARTING ACS (ANT COLONY SYSTEM) ANALYSIS
+======================================================================
+Starting ACS experimental analysis with 10 independent runs
+ACS Parameters:
+  α (pheromone weight): 1.0
+  β (heuristic weight): 3.0
+  q0 (exploitation parameter): 0.8
+  φ (local evaporation): 0.1
+  ρ (global evaporation): 0.3
+  τ0 (initial pheromone): 0.01
+======================================================================
+Executing ACS run 1/10 (seed: 339332)
+  Completed: Flow=341.00, Iterations=75
+Executing ACS run 2/10 (seed: 703650)
+  Completed: Flow=341.00, Iterations=145
+Executing ACS run 3/10 (seed: 745281)
+  Completed: Flow=341.00, Iterations=62
+Executing ACS run 4/10 (seed: 289657)
+  Completed: Flow=341.00, Iterations=92
+Executing ACS run 5/10 (seed: 73373)
+  Completed: Flow=341.00, Iterations=55
+Executing ACS run 6/10 (seed: 439844)
+  Completed: Flow=341.00, Iterations=61
+Executing ACS run 7/10 (seed: 725564)
+  Completed: Flow=341.00, Iterations=32
+Executing ACS run 8/10 (seed: 471460)
+  Completed: Flow=341.00, Iterations=53
+Executing ACS run 9/10 (seed: 435040)
+  Completed: Flow=341.00, Iterations=48
+Executing ACS run 10/10 (seed: 883655)
+  Completed: Flow=341.00, Iterations=28
+
+======================================================================
+FINAL REPORT - ACS EXPERIMENTAL ANALYSIS
+======================================================================
+Maximum flow value achieved: 341.00
+Average maximum flow: 341.00
+Standard deviation: 0.00
+Average iterations to reach best: 65.1
+Average evaluations to reach best: 2004.2
+Success rate (optimal solutions): 100.0%
+======================================================================
+Generating ACS convergence analysis plot...
