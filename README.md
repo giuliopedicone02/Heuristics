@@ -7,6 +7,8 @@ Repository creata a scopo didattico per essere utilizzata come backup dei file c
 <!-- * **Cartella Esercizi**: Comprende gli esercizi svolti durante il corso (Soluzioni personali, potrebbero non essere corretti o presentare errori) -->
 
 - **Cartella Lezioni**: Comprende gli appunti presi durante il corso (Potrebbero non essere corretti o presentare errori)
+- **Cartella Progetto**: Progetto presentato come esame della materia, implementazione dell'algoritmo Ant Colony System applicato al problema del Maximum Flow
+
 
 ## Authors
 
